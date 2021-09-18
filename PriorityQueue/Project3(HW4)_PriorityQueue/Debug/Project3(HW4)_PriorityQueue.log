@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\אור כהן\source\repos\Project3(HW4)_PriorityQueue\Project3(HW4)_PriorityQueue\Array.h(109,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\אור כהן\source\repos\Project3(HW4)_PriorityQueue\Project3(HW4)_PriorityQueue\Array.h(108): message : while compiling class template member function 'std::ostream &operator <<(std::ostream &,const Array<PriorityQueue<int>> &)'
+C:\Users\אור כהן\source\repos\Project3(HW4)_PriorityQueue\Project3(HW4)_PriorityQueue\main.cpp(63): message : see reference to function template instantiation 'std::ostream &operator <<(std::ostream &,const Array<PriorityQueue<int>> &)' being compiled
+C:\Users\אור כהן\source\repos\Project3(HW4)_PriorityQueue\Project3(HW4)_PriorityQueue\main.cpp(59): message : see reference to class template instantiation 'Array<PriorityQueue<int>>' being compiled
+C:\Users\אור כהן\source\repos\Project3(HW4)_PriorityQueue\Project3(HW4)_PriorityQueue\Array.h(93,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\אור כהן\source\repos\Project3(HW4)_PriorityQueue\Project3(HW4)_PriorityQueue\Array.h(81): message : while compiling class template member function 'Array<double> &Array<double>::operator =(const Array<double> &)'
+C:\Users\אור כהן\source\repos\Project3(HW4)_PriorityQueue\Project3(HW4)_PriorityQueue\PriorityQueue.h(100): message : see reference to function template instantiation 'Array<double> &Array<double>::operator =(const Array<double> &)' being compiled
+C:\Users\אור כהן\source\repos\Project3(HW4)_PriorityQueue\Project3(HW4)_PriorityQueue\main.cpp(46): message : see reference to class template instantiation 'Array<double>' being compiled
+  Project3(HW4)_PriorityQueue.vcxproj -> C:\Users\אור כהן\source\repos\Project3(HW4)_PriorityQueue\Debug\Project3(HW4)_PriorityQueue.exe
